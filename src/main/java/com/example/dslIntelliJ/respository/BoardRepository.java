@@ -11,4 +11,5 @@ public interface BoardRepository extends JpaRepository<Board, Long> {
     // 또3
     // 또4
     // 또5
+    // 또6
 }
