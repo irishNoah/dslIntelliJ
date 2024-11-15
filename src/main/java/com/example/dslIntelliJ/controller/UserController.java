@@ -31,7 +31,7 @@ public class UserController {
     @GetMapping("/get-user/{id}")
     public User findUserById(@PathVariable("id") Long id) {
         User user = userService.findUserById(id);
-        System.out.println("User Find is... : " + user);
+        System.out.println("User Find is... 5 : " + user);
 
         return user;
     }
