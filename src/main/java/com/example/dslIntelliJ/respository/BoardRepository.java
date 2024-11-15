@@ -8,7 +8,4 @@ import org.springframework.stereotype.Repository;
 public interface BoardRepository extends JpaRepository<Board, Long> {
     // 수정 1 commit
     // 수정 2
-    // 수정 3
-    // 수정 4
-    // 수정 5
 }
