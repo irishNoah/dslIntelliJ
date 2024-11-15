@@ -9,4 +9,5 @@ public interface BoardRepository extends JpaRepository<Board, Long> {
     // 수정 1 commit
     // 또2
     // 또3
+    // 또4
 }
